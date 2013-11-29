@@ -8,16 +8,12 @@
 		{
 			"name": "Alessio",
 			"email": "alessio@gayalab.it"
-		},
-		{
-			"name": "Gergely Polonkai",
-			"email": "gergely@polonkai.eu"
 		}
 	],
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/ioalessio"
+			"url": "https://github.com/ioalessio/IoTcpdfBundle"
 		}
 	],
 	"require": {
